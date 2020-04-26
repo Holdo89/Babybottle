@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
         chronometer.setBase(SystemClock.elapsedRealtime());
         chronometer.start();
         //test
+        //test2
     }
 
     public void Papa(View v) {
