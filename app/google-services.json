@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624121503903",
+    "firebase_url": "https://babybottle-1bb85.firebaseio.com",
+    "project_id": "babybottle-1bb85",
+    "storage_bucket": "babybottle-1bb85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624121503903:android:e2e932fadbab1433e742aa",
+        "android_client_info": {
+          "package_name": "com.example.babybottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624121503903-k10scgl1hmca318c633fmm9nicp0su0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxdNVCqZP_o9UOvFIpe3JnRUFxIrsoFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624121503903-k10scgl1hmca318c633fmm9nicp0su0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
