@@ -84,6 +84,11 @@ public class MainActivity extends AppCompatActivity {
         chronometer.start();
         //test
         //test2
+
+
+
+
+        
     }
 
     public void Papa(View v) {
